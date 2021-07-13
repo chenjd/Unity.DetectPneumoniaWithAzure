@@ -3,7 +3,10 @@ The world has changed due to the COVID-19 pandemic in 2020. Medical staff around
 
 ![](https://miro.medium.com/max/4800/1*vJKXATl2JmvPDDlPTa3EnA.png)
 
-Read More:
+If you are as interested in #Azurecloud and #AI as I am, I hope this article of mine can provide you with some information.
 
-[Build An Image Classifier For Detecting Viral Pneumonia, Bacterial Pneumonia With Azure AI And Unity
-](https://levelup.gitconnected.com/build-an-image-classifier-for-detecting-viral-pneumonia-bacterial-pneumonia-with-azure-ai-and-ae616b4d3b59)
+[Keep Learning, Keep Growing — How To Use Azure AI for Chest X-ray Diagnosis](https://lnkd.in/gXzE75p)
+
+Especially if you are interested in #computervision and #azure #cloud, I’ve created a collection for Azure Cognitive Service — Vision services so that you can also learn it.
+
+[Vision services](https://lnkd.in/g7JumWa)
